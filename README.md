@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi👋, I’m Ankita Sarkar, a B.Tech CSE undergraduate🎓 aspiring to become a Software Development Engineer.<br>📊 Currently focusing on Data Structures & Algorithms to strengthen problem-solving skills<br>💻 Learning Full-Stack MERN Web Development<br>🐍 Skilled in Python and Django<br>🌍 Interested in contributing to open-source projects<br>🚀 Actively seeking internship opportunities to apply and enhance my skills
 
 
